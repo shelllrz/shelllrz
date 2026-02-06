@@ -7,7 +7,7 @@
 
 ##  Sobre mim
 
-Me chamo **Michelle Ponce**, tenho 18 anos, sou estudante de **Engenharia de Software na FIAP** e estou atualmente em formação.  
+Me chamo **Michelle**, tenho 18 anos, sou estudante de **Engenharia de Software na FIAP** e estou atualmente em formação.  
 Sou apaixonada por tecnologia e estou em constante aprofundamento em linguagens, lógica de programação e fundamentos do desenvolvimento de software.
 
 Atualmente, estou explorando diferentes áreas da programação com o objetivo de me tornar uma **desenvolvedora Full Stack**, buscando compreender tanto o desenvolvimento front-end quanto back-end, sempre focando em boas práticas e aprendizado contínuo.
