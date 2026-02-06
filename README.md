@@ -53,6 +53,9 @@ Atualmente, estou explorando diferentes áreas da programação com o objetivo d
   </a>
 </div>
 
+![Snake animation](https://github.com/shelllrz/shelllrz/blob/output/github-contribution-grid-snake-dark.svg)
+
+
 
 
 
