@@ -1,9 +1,4 @@
 <h1 align="center"> Oie! Eu sou a Shell ^^</h1>
-<p align="center">
-  Estudante de Engenharia de Software
-</p>
-
----
 
 ##  Sobre mim
 
@@ -11,8 +6,6 @@ Me chamo **Michelle**, tenho 18 anos, sou estudante de **Engenharia de Software 
 Sou apaixonada por tecnologia e estou em constante aprofundamento em linguagens, lógica de programação e fundamentos do desenvolvimento de software.
 
 Atualmente, estou explorando diferentes áreas da programação com o objetivo de me tornar uma **desenvolvedora Full Stack**, buscando compreender tanto o desenvolvimento front-end quanto back-end, sempre focando em boas práticas e aprendizado contínuo.
-
----
 
 <div>
   <a href="https://github.com/shelllrz">
