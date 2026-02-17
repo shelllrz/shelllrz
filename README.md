@@ -7,12 +7,6 @@ Sou apaixonada por tecnologia e estou em constante aprofundamento em linguagens,
 
 Atualmente, estou explorando diferentes áreas da programação com o objetivo de me tornar uma **desenvolvedora Full Stack**, buscando compreender tanto o desenvolvimento front-end quanto back-end, sempre focando em boas práticas e aprendizado contínuo.
 
-<div>
-  <a href="https://github.com/shelllrz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shelllrz&show_icons=true&theme=tokyo-night&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shelllrz&layout=compact&langs_count=16&theme=tokyo-night"/>
-  </a>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40"
