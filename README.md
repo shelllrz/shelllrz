@@ -1,43 +1,44 @@
-<h1 align="center">Michelle Ponce</h1>
+![Banner Personalizado](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=1000&color=FF69B4&background=000000&vCenter=true&multiline=false&width=1000&height=200&lines=Olá%2C+eu+sou+a+Michelle)
 
-## Sobre mim
+💻 **Estudante de Engenharia de Sistemas** | 🔐 **Foco em Segurança e Arquitetura**
+🚀 "Construindo sistemas robustos onde a eficiência técnica é a prioridade."
 
-Sou estudante de Engenharia de Software com foco em desenvolvimento Back-End e fundamentos de arquitetura de sistemas.
+---
 
-Tenho direcionado meus estudos para compreender o funcionamento interno das aplicações, explorando estruturas de dados, modelagem de bancos de dados, construção de APIs, segurança de aplicações e computação em nuvem.
+## 🛠 Skills & Technologies (Focus: Engineering & Data)
 
-Busco evoluir tecnicamente na construção de sistemas escaláveis, organizados e seguros, aplicando boas práticas de desenvolvimento e princípios de arquitetura.
-
-<h2>Tecnologias e Ferramentas</h2>
-
+### 🖥️ Back-end & Architecture
 <p align="left">
-
-  <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45" alt="Spring"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="60" height="45" alt="Spring Security"/>
-
-  <!-- Banco de Dados -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
-
-  <!-- Infraestrutura -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="45" alt="AWS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
-
-  <!-- Versionamento -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-
-  <!-- Ferramentas Java -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="45" height="45" alt="Maven"/>
-
-  <!-- Mensageria -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="45" height="45" alt="Kafka"/>
-
-  <!-- Linguagem complementar -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-
+  <img src="https://skillicons.dev/icons?i=nodejs,python,java,go,rust,cpp" />
 </p>
+
+### 🗄️ Database & Data Engineering
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,elasticsearch" />
+</p>
+
+### ☁️ Cloud, Security & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,nginx,terraform,jenkins" />
+</p>
+
+### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bash,vim" />
+</p>
+
+---
+
+## 📊 Estatísticas e Evolução
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shelllrz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shelllrz&layout=compact&langs_count=7&theme=dracula" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shelllrz&theme=dracula" />
+</p>
+
 
 ![Snake animation](https://github.com/shelllrz/shelllrz/blob/output/github-contribution-grid-snake-dark.svg)
 
