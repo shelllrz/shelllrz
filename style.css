@@ -1,0 +1,123 @@
+body {
+  margin: 0;
+  background: #1a1333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.scene {
+  position: relative;
+  width: 1000px;
+  height: 400px;
+  background: linear-gradient(180deg, #2a1b5e, #1a1333);
+  overflow: hidden;
+  border-radius: 20px;
+}
+
+/* 💻 Monitor glow */
+.monitor-glow {
+  position: absolute;
+  width: 300px;
+  height: 150px;
+  background: rgba(130, 90, 255, 0.3);
+  top: 120px;
+  left: 350px;
+  filter: blur(40px);
+  animation: pulse 4s infinite ease-in-out;
+}
+
+@keyframes pulse {
+  0% { opacity: 0.4; }
+  50% { opacity: 0.8; }
+  100% { opacity: 0.4; }
+}
+
+/* ☕ Fumaça */
+.steam {
+  position: absolute;
+  width: 20px;
+  height: 100px;
+  background: radial-gradient(circle, rgba(255,255,255,0.6), transparent);
+  top: 160px;
+  left: 300px;
+  animation: smoke 5s infinite linear;
+}
+
+@keyframes smoke {
+  0% { transform: translateY(0) scale(1); opacity: 0.6; }
+  100% { transform: translateY(-80px) scale(1.5); opacity: 0; }
+}
+
+/* 💡 Luz pulsando */
+.light {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  background: rgba(255, 200, 100, 0.3);
+  border-radius: 50%;
+  filter: blur(20px);
+  animation: lightPulse 6s infinite ease-in-out;
+}
+
+.light-left {
+  top: 80px;
+  left: 250px;
+}
+
+.light-right {
+  top: 80px;
+  right: 250px;
+}
+
+@keyframes lightPulse {
+  0% { opacity: 0.3; }
+  50% { opacity: 0.7; }
+  100% { opacity: 0.3; }
+}
+
+/* 🐱 Gatinho respirando */
+.cat {
+  position: absolute;
+  width: 80px;
+  height: 40px;
+  background: #111;
+  border-radius: 40px;
+  top: 220px;
+  left: 260px;
+  animation: breathe 3s infinite ease-in-out;
+}
+
+@keyframes breathe {
+  0% { transform: scaleY(1); }
+  50% { transform: scaleY(1.1); }
+  100% { transform: scaleY(1); }
+}
+
+/* ✨ Partículas */
+.particles::before,
+.particles::after {
+  content: "";
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  background: white;
+  border-radius: 50%;
+  animation: float 8s infinite linear;
+}
+
+.particles::before {
+  top: 300px;
+  left: 100px;
+}
+
+.particles::after {
+  top: 350px;
+  right: 150px;
+}
+
+@keyframes float {
+  0% { transform: translateY(0); opacity: 0.2; }
+  100% { transform: translateY(-200px); opacity: 0; }
+}
