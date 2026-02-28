@@ -1,4 +1,6 @@
-![Banner Animado](https://github.com/shelllrz/shelllrz/blob/main/3E2iAnNgZm1BGtCzEQpSUz_1772235438584_na1fn_L2hvbWUvdWJ1bnR1L2dpdGh1Yl9iYW5uZXJfdjNfYW5pbWF0ZWQ.webp?raw=true)
+<div align="center">
+  <img src="LINK_DO_SEU_BANNER_AQUI" alt="Banner" />
+</div>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=4B0082&lines=Ol%C3%A1!;Me+chamo+Michelle!;" />
