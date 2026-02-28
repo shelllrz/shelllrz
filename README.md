@@ -1,4 +1,4 @@
-![Banner Animado](COLE_O_LINK_AQUI_TERMINANDO_COM_.GIF)
+![Banner Animado](https://github.com/shelllrz/shelllrz/blob/main/3E2iAnNgZm1BGtCzEQpSUz_1772235438584_na1fn_L2hvbWUvdWJ1bnR1L2dpdGh1Yl9iYW5uZXJfdjNfYW5pbWF0ZWQ.webp?raw=true)
 
 
 ![Banner Personalizado](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=1000&color=00008B&background=000000&vCenter=true&multiline=false&width=1000&height=200&lines=Olá%2C+eu+sou+a+Michelle)
