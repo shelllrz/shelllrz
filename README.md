@@ -1,7 +1,8 @@
 ![Banner Animado](https://github.com/shelllrz/shelllrz/blob/main/3E2iAnNgZm1BGtCzEQpSUz_1772235438584_na1fn_L2hvbWUvdWJ1bnR1L2dpdGh1Yl9iYW5uZXJfdjNfYW5pbWF0ZWQ.webp?raw=true)
 
-
-![Banner Personalizado](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=1000&color=00008B&background=000000&vCenter=true&multiline=false&width=1000&height=200&lines=Olá%2C+eu+sou+a+Michelle)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=4B0082&lines=Ol%C3%A1!;Me+chamo+Michelle!;" />
+</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lxys-r-9b1640322/">
