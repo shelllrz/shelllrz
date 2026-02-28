@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="LINK_DO_SEU_BANNER_AQUI" alt="Banner" />
+  <img src="https://github.com/shelllrz/shelllrz/blob/main/VID_20260227232858306%202.gif?raw=true" alt="Banner" />
 </div>
 
 <h1 align="center">
