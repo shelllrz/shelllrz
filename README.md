@@ -16,7 +16,6 @@
 <p align="center">
   💻 <strong>Estudante de Engenharia de Sistemas</strong> | 🔐 <strong>Foco em Segurança e Arquitetura</strong>
   <br>
-  🚀 <em>"Construindo sistemas robustos onde a eficiência técnica é a prioridade."</em>
 </p>
 
 ---
