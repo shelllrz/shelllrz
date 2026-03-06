@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠 Skills & Technologies (Focus: Engineering & Data)
+## 🛠 Skills & Technologies
 
 ### 🖥️ Back-end & Architecture
 <p align="left">
