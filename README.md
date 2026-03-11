@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  💻 <strong>Estudante de Engenharia de Sistemas</strong> | 🔐 <strong>Foco em Segurança e Arquitetura</strong>
+  💻 <strong>Estudante de Engenharia de Software</strong> | 🔐 <strong>Foco em Segurança e Arquitetura</strong>
   <br>
 </p>
 
