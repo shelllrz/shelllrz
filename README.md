@@ -1,9 +1,5 @@
 
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=4B0082&lines=Ol%C3%A1!;Me+chamo+Michelle!;" />
-</h1>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/lxys-r-9b1640322/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
